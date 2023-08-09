@@ -1,4 +1,9 @@
 # Dashboard Gestao de obra
- Este dashboard foi realizado para fazer a gestão de uma obra de um loteamento residencial.
- 
- https://app.powerbi.com/groups/me/reports/a35d4580-0699-4359-9e93-217c328de2b2/ReportSection?experience=power-bi
+ Este dashboard foi elaborado no powerBI para fazer a gestão de uma obra de um loteamento residencial. Abaixo segue link do dashboard:
+
+ https://app.powerbi.com/view?r=eyJrIjoiZTM3ZjVmNjUtNmMwMS00NTVjLTg4NDQtY2YxMDU4ZWQ2YTg4IiwidCI6IjIzMGJmNzU2LTBlMTUtNDU3Zi04OTgxLWZlOGQzNDU4NjhjMCJ9
+
+# Etapas realizadas no trabalho
+
+
+
