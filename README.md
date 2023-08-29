@@ -5,7 +5,9 @@
 
  Dentre as atividades realizadas neste dashboard, podemos citar:
 
- Coleta e preparo dos dados no power Query
+ - Coleta e preparo dos dados no power Query
+ - Modelagem de dados
+ 
  
 
 
